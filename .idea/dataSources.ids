@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component name="dataSourceStorage">
+  <data-source source="LOCAL" name="Rails GitLancer1: development" uuid="9ad08334-9959-4571-b873-8f0dce7cbe45">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+  <data-source source="LOCAL" name="Rails GitLancer1: test" uuid="03df47a8-6875-4c2e-a352-44af8454767b">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+  <data-source source="LOCAL" name="Rails GitLancer1: production" uuid="746b1e8a-bba8-48e9-9d01-67d592b80a83">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+</component>

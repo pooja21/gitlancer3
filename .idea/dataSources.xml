@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="158862176">
+    <data-source source="LOCAL" name="Rails GitLancer1: development" uuid="9ad08334-9959-4571-b873-8f0dce7cbe45">
+      <driver-ref>mysql</driver-ref>
+      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://127.0.0.1/GitLancer1_development</jdbc-url>
+      <user-name>root</user-name>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Rails GitLancer1: test" uuid="03df47a8-6875-4c2e-a352-44af8454767b">
+      <driver-ref>mysql</driver-ref>
+      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://127.0.0.1/GitLancer1_test</jdbc-url>
+      <user-name>root</user-name>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Rails GitLancer1: production" uuid="746b1e8a-bba8-48e9-9d01-67d592b80a83">
+      <driver-ref>mysql</driver-ref>
+      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://127.0.0.1/GitLancer1_production</jdbc-url>
+      <user-name>GitLancer1</user-name>
+      <user-password>df96df8fdf97df8adfefdfe4dffcdff1df8ddfeddfe3dffedfe6dfebdfe4dfe9dfefdff8df9bdff5dfeedfebdffedfebdfe8dfebdff9dfefdff5dffadfebdff9dff9dffddfe5dff8dfeedf8ddff7df8adf8fdf94</user-password>
+      <libraries />
+    </data-source>
+  </component>
+</project>
+
